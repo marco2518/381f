@@ -19,6 +19,7 @@
   },
   "engine": "node >= 0.10.0",
   "scripts": {
+    "start": "npm install"
     "start": "node project"
   },
   "main": "project.js",
